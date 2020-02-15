@@ -1,12 +1,11 @@
  /* ---------------------------------------------------Body--------------------------------------------------- */
 body {
     margin: 0px;
-    background-image: url(/img/Fondo.jpg);
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
+    background-image: url(../img/Fondo.jpg);
 }
-
  /* ---------------------------------------------------Nav--------------------------------------------------- */
 
  nav {
