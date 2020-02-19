@@ -45,8 +45,8 @@ function autoSlide() {
     }
     x[slideIndex-1].style.display = "block";
 
-// Change image every 5 seconds
-setTimeout(autoSlide, 5000);
+// Change image every 15 seconds
+/* setTimeout(autoSlide, 15000); */
 }
 
 // Muestra botones cuando paso el mouse encima de otro div
